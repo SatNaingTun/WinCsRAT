@@ -1,0 +1,7 @@
+E:\vsprojects\TwoWayComRATeg3\TwoWayComRATeg3\bin\Debug\TwoWayComRATeg3.exe
+E:\vsprojects\TwoWayComRATeg3\TwoWayComRATeg3\bin\Debug\TwoWayComRATeg3.pdb
+E:\vsprojects\TwoWayComRATeg3\TwoWayComRATeg3\obj\x86\Debug\TwoWayComRATeg3.Form1.resources
+E:\vsprojects\TwoWayComRATeg3\TwoWayComRATeg3\obj\x86\Debug\TwoWayComRATeg3.Properties.Resources.resources
+E:\vsprojects\TwoWayComRATeg3\TwoWayComRATeg3\obj\x86\Debug\TwoWayComRATeg3.csproj.GenerateResource.Cache
+E:\vsprojects\TwoWayComRATeg3\TwoWayComRATeg3\obj\x86\Debug\TwoWayComRATeg3.exe
+E:\vsprojects\TwoWayComRATeg3\TwoWayComRATeg3\obj\x86\Debug\TwoWayComRATeg3.pdb

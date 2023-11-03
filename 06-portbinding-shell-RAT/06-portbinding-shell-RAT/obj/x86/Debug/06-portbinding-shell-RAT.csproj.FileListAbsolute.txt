@@ -1,0 +1,7 @@
+E:\vsprojects\06-portbinding-shell-RAT\06-portbinding-shell-RAT\bin\Debug\06-portbinding-shell-RAT.exe
+E:\vsprojects\06-portbinding-shell-RAT\06-portbinding-shell-RAT\bin\Debug\06-portbinding-shell-RAT.pdb
+E:\vsprojects\06-portbinding-shell-RAT\06-portbinding-shell-RAT\obj\x86\Debug\_06_portbinding_shell_RAT.Form1.resources
+E:\vsprojects\06-portbinding-shell-RAT\06-portbinding-shell-RAT\obj\x86\Debug\_06_portbinding_shell_RAT.Properties.Resources.resources
+E:\vsprojects\06-portbinding-shell-RAT\06-portbinding-shell-RAT\obj\x86\Debug\06-portbinding-shell-RAT.csproj.GenerateResource.Cache
+E:\vsprojects\06-portbinding-shell-RAT\06-portbinding-shell-RAT\obj\x86\Debug\06-portbinding-shell-RAT.exe
+E:\vsprojects\06-portbinding-shell-RAT\06-portbinding-shell-RAT\obj\x86\Debug\06-portbinding-shell-RAT.pdb

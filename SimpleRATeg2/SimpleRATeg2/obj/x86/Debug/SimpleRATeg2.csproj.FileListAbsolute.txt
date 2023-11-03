@@ -1,0 +1,7 @@
+E:\vsprojects\SimpleRATeg2\SimpleRATeg2\bin\Debug\SimpleRATeg2.exe
+E:\vsprojects\SimpleRATeg2\SimpleRATeg2\bin\Debug\SimpleRATeg2.pdb
+E:\vsprojects\SimpleRATeg2\SimpleRATeg2\obj\x86\Debug\SimpleRATeg2.Form1.resources
+E:\vsprojects\SimpleRATeg2\SimpleRATeg2\obj\x86\Debug\SimpleRATeg2.Properties.Resources.resources
+E:\vsprojects\SimpleRATeg2\SimpleRATeg2\obj\x86\Debug\SimpleRATeg2.csproj.GenerateResource.Cache
+E:\vsprojects\SimpleRATeg2\SimpleRATeg2\obj\x86\Debug\SimpleRATeg2.exe
+E:\vsprojects\SimpleRATeg2\SimpleRATeg2\obj\x86\Debug\SimpleRATeg2.pdb

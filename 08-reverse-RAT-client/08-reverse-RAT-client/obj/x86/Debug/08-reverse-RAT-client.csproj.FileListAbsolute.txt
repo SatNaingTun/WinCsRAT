@@ -1,0 +1,7 @@
+E:\vsprojects\08-reverse-RAT-client\08-reverse-RAT-client\obj\x86\Debug\_08_reverse_RAT_client.Form1.resources
+E:\vsprojects\08-reverse-RAT-client\08-reverse-RAT-client\obj\x86\Debug\_08_reverse_RAT_client.Properties.Resources.resources
+E:\vsprojects\08-reverse-RAT-client\08-reverse-RAT-client\obj\x86\Debug\08-reverse-RAT-client.csproj.GenerateResource.Cache
+E:\vsprojects\08-reverse-RAT-client\08-reverse-RAT-client\bin\Debug\08-reverse-RAT-client.exe
+E:\vsprojects\08-reverse-RAT-client\08-reverse-RAT-client\bin\Debug\08-reverse-RAT-client.pdb
+E:\vsprojects\08-reverse-RAT-client\08-reverse-RAT-client\obj\x86\Debug\08-reverse-RAT-client.exe
+E:\vsprojects\08-reverse-RAT-client\08-reverse-RAT-client\obj\x86\Debug\08-reverse-RAT-client.pdb
